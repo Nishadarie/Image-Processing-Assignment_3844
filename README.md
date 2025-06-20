@@ -1,5 +1,4 @@
 # Image-Processing-Assignment_3844
-# Image-Processing-Assignment_3844
 1. Reduce Intensity Levels
 Converts an image from 256 intensity levels to 2.
 If the user inputs 3, the output will have 8 intensity levels (2³=8).
